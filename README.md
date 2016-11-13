@@ -1,0 +1,1 @@
+React + Webpack + ES6 app

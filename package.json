@@ -1,0 +1,12 @@
+{
+  "name": "react-cource-ru-webpack",
+  "version": "1.0.0",
+  "description": "Refactoring with Webpack",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "author": "Maliutenko_Denis",
+  "license": "ISC"
+}
